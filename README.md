@@ -3,6 +3,10 @@
 ## Project Overview
 Harga mata uang kripto seperti Bitcoin dikenal sangat volatil dan dipengaruhi oleh banyak faktor. Salah satu faktor kunci yang diduga memiliki pengaruh kuat adalah sentimen publik yang tecermin dalam diskusi di media sosial. Investor dan analis sering kali kesulitan mengukur sentimen ini secara objektif dan memahami hubungannya dengan pergerakan pasar. Proyek ini bertujuan untuk menjembatani kesenjangan tersebut dengan menganalisis secara kuantitatif hubungan antara sentimen publik di platform media sosial dengan data historis harga Bitcoin.
 
+## Google Colab Notebook
+Berikut merupakan hasil proyek menggunakan google colab : 
+Link: [[Link Colab](https://colab.research.google.com/drive/1FoxjJXftx9rSZnNokrFBBSGno9_yi8es?usp=sharing)]
+
 ## Raw Dataset Link
 Proyek ini menggunakan dua dataset publik yang bersumber dari Kaggle.
 - Dataset Harga Bitcoin Historis (2018-2023): Berisi data harga per jam (Open, High, Low, Close, Volume).
